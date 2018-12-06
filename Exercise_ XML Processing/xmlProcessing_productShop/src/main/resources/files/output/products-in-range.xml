@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product name="Topiramate" price="578.77" seller="Brandon Fuller"/>
+    <product name="Agaricus Equisetum Special Order" price="585.93" seller="null Baker"/>
+    <product name="Diastat" price="614.14" seller="Marie Williamson"/>
+    <product name="Glipizide" price="621.78" seller="Anna Clark"/>
+    <product name="Strattera" price="658.54" seller="Amanda Frazier"/>
+    <product name="Ampicillin" price="674.63" seller="Jeremy Woods"/>
+    <product name="PRIMAXIN" price="686.66" seller="Joshua Murray"/>
+    <product name="CALMING DIAPER RASH" price="700.92" seller="Jennifer Riley"/>
+    <product name="Warfarin Sodium" price="770.05" seller="Jennifer Riley"/>
+    <product name="Warfarin Sodium" price="770.05" seller="Betty Ward"/>
+    <product name="Pollens - Weeds and Garden Plants, Nettle Urtica dioica" price="782.77" seller="Joshua Murray"/>
+    <product name="Azithromycin" price="813.87" seller="null Bennett"/>
+    <product name="EPZICOM" price="895.65" seller="null Stewart"/>
+</products>

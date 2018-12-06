@@ -1,0 +1,11 @@
+Problem 10 - query to validate information - authors that don't have any books aren't showed here,
+but you can check the information about the rest of them.
+Note, that the task is to show all authors
+with their total number of copies which includes the authors without books.
+
+
+SELECT sum(b.copies), concat(a.first_name, " ", a.last_name)
+FROM books as b
+JOIN authors a on b.author_id = a.id
+GROUP BY author_id
+ORDER BY sum(b.copies) DESC;
